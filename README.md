@@ -8,8 +8,11 @@ To get started:
 
 1. Clone the repository:
 
-`git clone https://github.com/Jewelmm10/Booking-site.git`
-`cd tailwind-boilerplate`
+```
+git clone https://github.com/Jewelmm10/Booking-site.git`
+cd tailwind-boilerplate
+
+```
 
 2. Install the dependencies:
     ```
@@ -36,4 +39,4 @@ To run
     npm run minify
 
    ```
-This will create a minify css file in `assets/css/style.min.css`.
+This will create a minify css file in `assets/css/style.min.css`
